@@ -1,0 +1,14 @@
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\bin\Debug\net6.0\DZ7_1.exe
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\bin\Debug\net6.0\DZ7_1.deps.json
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\bin\Debug\net6.0\DZ7_1.runtimeconfig.json
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\bin\Debug\net6.0\DZ7_1.dll
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\bin\Debug\net6.0\DZ7_1.pdb
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.AssemblyInfoInputs.cache
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.AssemblyInfo.cs
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.csproj.CoreCompileInputs.cache
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.dll
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\refint\DZ7_1.dll
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.pdb
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\DZ7_1.genruntimeconfig.cache
+C:\Users\Aliia\source\repos\DZ7_1\DZ7_1\obj\Debug\net6.0\ref\DZ7_1.dll
